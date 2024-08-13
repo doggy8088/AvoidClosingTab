@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Avoid Closing Tab
-// @version      0.1
+// @version      0.2
 // @description  Preventing tab been closed by hitting Ctrl-W for specific websites.
 // @license      MIT
 // @homepage     https://blog.miniasp.com/
@@ -9,8 +9,7 @@
 // @source       https://github.com/doggy8088/AvoidClosingTab
 // @namespace    https://github.com/doggy8088/AvoidClosingTab
 // @author       Will Huang
-// @match        https://*.github.dev/*
-// @match        https://*.scm.azurewebsites.net/dev/*
+// @match        https://*/*
 // @run-at       document-start
 // ==/UserScript==
 
